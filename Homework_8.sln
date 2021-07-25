@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_8", "Homework_8\Homework_8.csproj", "{36435FFA-7F3E-4F0F-BE8F-E7D8A586F097}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumOfEven", "Homework_8\sumOfEven.csproj", "{36435FFA-7F3E-4F0F-BE8F-E7D8A586F097}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
